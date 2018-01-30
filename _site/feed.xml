@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniela de Rito</title>
+    <description>Canto, Enseño, Conecto</description>
+    <link>http://localhost:4000/danieladerito//</link>
+    <atom:link href="http://localhost:4000/danieladerito//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 24 Jan 2018 21:17:14 -0300</pubDate>
+    <lastBuildDate>Wed, 24 Jan 2018 21:17:14 -0300</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Clases</title>
+        <description>&lt;p&gt;A quien quiera hacer de eso una forma de vida, a quien quiera expresarse de una manera nueva, a quien quiera aprender a cantar su tema favorito, o a cualquiera. Cualquiera que tenga ganas de entregarse un rato, al maravilloso mundo de hacer música con nuestro propio cuerpo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000//danieladerito//images/volante1.jpg&quot; alt=&quot;clases&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jan 2018 17:53:00 -0300</pubDate>
+        <link>http://localhost:4000/danieladerito//2018/clases-de-canto/</link>
+        <guid isPermaLink="true">http://localhost:4000/danieladerito//2018/clases-de-canto/</guid>
+        
+        <category>clases</category>
+        
+        
+        <category>clases</category>
+        
+      </item>
+    
+  </channel>
+</rss>
