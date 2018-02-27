@@ -12,7 +12,7 @@ A quien quiera hacer de eso una forma de vida, a quien quiera expresarse de una 
 
 <div class="form-group">
 
-<form method="POST" action="https://formspree.io/danieladeritogmail.com">
+<form method="POST" action="https://formspree.io/danieladerito@gmail.com">
   <input class="subscribe-email" name="email" placeholder="Su email" type="email">
   <textarea name="message" placeholder="Mensaje"></textarea>
   <button type="submit">Enviar</button>
