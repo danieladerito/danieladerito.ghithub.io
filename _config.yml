@@ -1,7 +1,7 @@
 # Site settings
 title: Daniela de Rito
 description: 'Canto, Enseño, Conecto'
-url: 'https://danieladerito.github.io/'
+url: 'https://danieladerito.github.io'
 baseurl: /
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
